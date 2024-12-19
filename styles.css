@@ -29,7 +29,7 @@ nav ul li {
     flex: 1;
 }
 .btn-learnmore{
-    margin-top: 50vh;
+    
 }
 .btn-container{
     display: flex;  
@@ -168,7 +168,9 @@ button:active {
     text-align: center;
     border-radius: 1em;
     outline: none;
-    filter: drop-shadow(10px 10px 10px #ffffff );
+    border-style:double;
+    border: 50px;
+ 
 }
 .content_header
 {
@@ -209,7 +211,7 @@ button:active {
     align-items: center;
     width: auto;
     height: 200px;
-    margin-left: 20px;
+    
     padding: 100px;
     border-radius: 6px 6px 0 0;
     filter: drop-shadow(20px 5px 20px rgb(67, 73, 69));
@@ -222,7 +224,7 @@ button:active {
     align-items: center;
     width: auto;
     height: 250px;
-    margin-left: 20px;
+  
     padding: 100px;
     border-radius: 6px 6px 0 0;
     filter: drop-shadow(20px 5px 20px rgb(67, 73, 69));    
@@ -235,7 +237,7 @@ button:active {
     align-items: center;
     width: auto;
     height: 200px;
-    margin-left: 20px;
+  
     padding: 100px;
     border-radius: 6px 6px 0 0;
     filter: drop-shadow(20px 5px 20px rgb(67, 73, 69)); 
@@ -248,7 +250,7 @@ button:active {
     align-items: center;
     width: auto;
     height: 250px;
-    margin-left: 20px;
+   
     padding: 100px;
     border-radius: 6px 6px 0 0;
     filter: drop-shadow(20px 5px 20px rgb(67, 73, 69));
@@ -263,7 +265,7 @@ button:active {
     align-items: center;
     width: auto;
     height: 200px;
-    margin-left: 20px;
+
     padding: 100px;
     border-radius: 6px 6px 0 0;
     filter: drop-shadow(20px 5px 20px rgb(67, 73, 69));
@@ -278,7 +280,7 @@ button:active {
     align-items: center;
     width: auto;
     height: 200px;
-    margin-left: 20px;
+  
     padding: 100px;
     border-radius: 6px 6px 0 0;
     filter: drop-shadow(20px 5px 20px rgb(67, 73, 69));
@@ -293,7 +295,7 @@ button:active {
     align-items: center;
     width: auto;
     height: 250px;
-    margin-left: 20px;
+   
     padding: 100px;
     border-radius: 6px 6px 0 0;
     filter: drop-shadow(20px 5px 20px rgb(67, 73, 69)); 
@@ -308,7 +310,7 @@ button:active {
     align-items: center;
     width: auto;
     height: 200px;
-    margin-left: 20px;
+
     padding: 100px;
     border-radius: 6px 6px 0 0;
     filter: drop-shadow(20px 5px 20px rgb(67, 73, 69)); 
@@ -322,8 +324,8 @@ button:active {
     align-items: center;
     width: auto;
     height: 200px;
-    margin-left: 20px;
-    padding: 1a00px;
+
+    padding: 100px;
     border-radius: 6px 6px 0 0;
     filter: drop-shadow(20px 5px 20px rgb(67, 73, 69)); 
 }
@@ -334,7 +336,7 @@ button:active {
     background-size: cover;
     align-items: center;
     width: auto;
-    margin-left: 20px;
+ 
     height: 250px;
     padding: 100px;
     border-radius: 6px 6px 0 0;
